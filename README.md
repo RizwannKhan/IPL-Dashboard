@@ -14,9 +14,11 @@ Check out the playlist below to see this app built end-to-end from scratch.
 ### Team Page
 
 
+![team-page](https://user-images.githubusercontent.com/59991709/158521564-8b032909-e31f-42ea-8012-84d4ea9f617b.jpg)
 
 ### Matches Page
 
+![matches-page](https://user-images.githubusercontent.com/59991709/158521595-a7e6dcba-b594-4302-ad4d-e617d140142d.jpg)
 
 
 ## Technologies
